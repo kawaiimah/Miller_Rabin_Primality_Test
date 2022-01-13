@@ -1,5 +1,5 @@
 # Miller_Rabin_Primality_Test
-Was exploring the [Miller-Rabin Primality Test] (https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) and thought to give it a go at coding it up. Strictly speaking, the primality test that I ultimatedly implemented is a deterministic Miller test for numbers up to 3,825,123,056,546,413,051 with turnaround time of well less than a second.
+Was exploring the [Miller-Rabin Primality Test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test) and thought to give it a go at coding it up. Strictly speaking, the primality test that I ultimatedly implemented is a deterministic Miller test for numbers up to 3,825,123,056,546,413,051 with turnaround time of well less than a second.
 
 ## Coding Concepts
 - Included time.perf_counter to check how long it takes to conduct the test
