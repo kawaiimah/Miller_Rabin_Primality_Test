@@ -11,3 +11,6 @@ Also did up a separate testing program to collect some stats. From a couple of r
 - ~11% of such 15-digit numbers turn out to be primes
 - The Miller test was faster ~37% of the time.
 - Note that the brute force test is sometimes faster simply because the number to be tested is divisible by a small prime like 7. Also note that I used a pre-generated list of primes to save time. Included in the code is a commented snippet that conducts the brute force test on the fly - testing large numbers will take exceedingly long for large primes.
+
+## Addendum
+Turns out the primes.txt file is too large to upload, I had to split it to 3 files. Pls join them up manually or otherwise edit the code a bit to make use of them.
